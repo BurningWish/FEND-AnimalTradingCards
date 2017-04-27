@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+}
+
+.cat-card {
+    border: solid 1px #DBE2E8;
+    padding: 10px;
+    width: 322px;
+    box-shadow: 7px 7px #D0D7D9;
+    margin: 0 auto;
+}
+
+.cat-img {
+    margin-top: 5px;
+}
+
+.cat-info {
+    width: 300px;
+    padding: 10px;
+    border: solid 1px #DBE2E8;
+    margin-top: 10px;
+}
+
+.info-list {
+    list-style: none;
+    padding: 0;
+}
+
+.list-label {
+    font-weight: bold;
+}
